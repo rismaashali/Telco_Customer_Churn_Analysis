@@ -14,7 +14,7 @@
 - Data Cleansing
 - Data Exploration
 - Feature Engineering
-- EDA
+- Exploratory Data Analysis
 - Modeling using Logistic Regression
 - AUC/ROC
 - Build a Model with Cross Validation

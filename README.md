@@ -48,7 +48,7 @@
   
 - Business Benefit:
   - Helping Business Development Team to create product differentiation based on the characteristic for each customer.
-  - Know how to treat customers with spesific criteria, especially between those who are still subscribing and unsubscribed.
+  - Know how to treat customers with spesific criteria, especially between those churn customers and no churn customers.
 
 - Expected Outcome:
   - Know how many customers based on gender type who churn and no churn.
